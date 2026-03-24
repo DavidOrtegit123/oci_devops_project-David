@@ -12,7 +12,7 @@ ENV ui_password="none0001"
 
 ENV db_user="EQUIPO66"
 ENV dbpassword="Contraseña123"
-ENV db_url="jdbc:oracle:thin:@aoruizatp_tp?TNS_ADMIN=/mtdrworkshop/creds"
+ENV db_url="jdbc:oracle:thin:@kgpaekbxg6xoz9br_tp?TNS_ADMIN=/mtdrworkshop/creds"
 ENV driver_class_name="oracle.jdbc.OracleDriver"
 
 ENTRYPOINT ["java","-jar","MyTodoList.jar"]
